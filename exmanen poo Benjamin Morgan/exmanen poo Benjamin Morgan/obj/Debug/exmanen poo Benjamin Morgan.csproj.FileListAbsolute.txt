@@ -1,0 +1,7 @@
+C:\Users\bamor\Desktop\examen-benjamorgan\exmanen poo Benjamin Morgan\exmanen poo Benjamin Morgan\bin\Debug\exmanen poo Benjamin Morgan.exe.config
+C:\Users\bamor\Desktop\examen-benjamorgan\exmanen poo Benjamin Morgan\exmanen poo Benjamin Morgan\bin\Debug\exmanen poo Benjamin Morgan.exe
+C:\Users\bamor\Desktop\examen-benjamorgan\exmanen poo Benjamin Morgan\exmanen poo Benjamin Morgan\bin\Debug\exmanen poo Benjamin Morgan.pdb
+C:\Users\bamor\Desktop\examen-benjamorgan\exmanen poo Benjamin Morgan\exmanen poo Benjamin Morgan\obj\Debug\exmanen poo Benjamin Morgan.csprojAssemblyReference.cache
+C:\Users\bamor\Desktop\examen-benjamorgan\exmanen poo Benjamin Morgan\exmanen poo Benjamin Morgan\obj\Debug\exmanen poo Benjamin Morgan.csproj.CoreCompileInputs.cache
+C:\Users\bamor\Desktop\examen-benjamorgan\exmanen poo Benjamin Morgan\exmanen poo Benjamin Morgan\obj\Debug\exmanen poo Benjamin Morgan.exe
+C:\Users\bamor\Desktop\examen-benjamorgan\exmanen poo Benjamin Morgan\exmanen poo Benjamin Morgan\obj\Debug\exmanen poo Benjamin Morgan.pdb
